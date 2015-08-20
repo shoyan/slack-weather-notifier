@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    slack-incoming-webhooks (0.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  slack-incoming-webhooks
